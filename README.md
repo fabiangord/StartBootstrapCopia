@@ -11,4 +11,4 @@ Link:https://fabiangord.github.io/StartBootstrapCopia/
 
 # Desarrollo
 
-Para ejecutar el codigo en el local, debes clonar el repositorio y abrir el index para ver nuestra pagina
+Para ejecutar el codigo en el local, debes clonar el repositorio y abrir el index para ver la pagina web.
